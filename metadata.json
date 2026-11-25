@@ -1,0 +1,6 @@
+{
+  "name": "DATAVISION AI",
+  "description": "Interactive Data Science & AI analytics platform with live charts, IQR anomaly detection, multiple linear regression, Gemini AI analyst, and Career Fair mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

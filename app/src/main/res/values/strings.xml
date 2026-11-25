@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DATAVISION AI</string>
+    <string name="tagline">Turning Raw Data Into Extraordinary Insights</string>
+    <string name="hero_badge">CAREER FAIR EDITION • DATA SCIENCE &amp; AI</string>
+    <string name="cta_start_analysing">START ANALYSING</string>
+    <string name="cta_launch_career_fair">Launch Career Fair Mode</string>
+    <string name="cta_generate_insights">GENERATE HIDDEN INSIGHTS</string>
+    <string name="cta_explore_another">EXPLORE ANOTHER DATASET</string>
+    <string name="correlation_causation_notice">Correlation does not equal causation: a high Pearson r shows two metrics move together, not that one directly causes the other.</string>
+    <string name="prediction_estimate_notice">Predictions are statistical estimates from this synthetic dataset, not guarantees of real-world outcomes.</string>
+</resources>
